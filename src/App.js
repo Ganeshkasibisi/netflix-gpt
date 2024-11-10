@@ -1,12 +1,10 @@
 
-import './App.css';
+import Body from './components/Body.js'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-      </header>
+      <Body/>
     </div>
   );
 }
